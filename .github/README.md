@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuriMustafa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -25,7 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL" />
 </div>
 
-###
+
+---
+
 
 <div align="left">
   <a href="guriimustafaa@gmail.com">
@@ -36,10 +38,15 @@
 </div>
 
 ###
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuriMustafa/GuriMustafa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuriMustafa/GuriMustafa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GuriMustafa/GuriMustafa/output/github-snake.svg" />
+</picture>
+</div>
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+---
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=GuriMustafa&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
@@ -49,6 +56,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=GuriMustafa&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GuriMustafa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
