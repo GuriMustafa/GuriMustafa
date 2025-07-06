@@ -15,7 +15,7 @@ Aspiring Full-Stack Developer from Kosovo 🇽🇰
 
 ## 🚀 Tech Stack
 
-<div align="left">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
@@ -26,8 +26,6 @@ Aspiring Full-Stack Developer from Kosovo 🇽🇰
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
 </div>
-
-
 
 ---
 
@@ -61,4 +59,6 @@ Aspiring Full-Stack Developer from Kosovo 🇽🇰
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=GuriMustafa&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GuriMustafa&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+</div>
