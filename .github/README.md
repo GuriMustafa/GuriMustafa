@@ -1,37 +1,33 @@
 ## 👋 Hi, I'm Guri Mustafa
 
-Aspiring Full-Stack Developer from Kosovo 🇽🇰
+React Developer from Kosovo 🇽🇰
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuriMustafa&show_icons=true&theme=dracula&cache_seconds=86400" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuriMustafa&layout=compact&theme=dracula&cache_seconds=86400" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuriMustafa&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuriMustafa&layout=compact&theme=dracula" height="150" />
 </div>
 
 ---
 
 ## 🚀 Tech Stack
 
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" width="100" />
-  <img src="https://dzakifadh.dev/img/gsap.png" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> <!-- SQLite icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="30" title="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="Learning React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://dzakifadh.dev/img/gsap.png" width="40" title="GSAP Animation" />
 </p>
-
-  
- 
 
 ---
 
@@ -58,7 +54,7 @@ Aspiring Full-Stack Developer from Kosovo 🇽🇰
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GuriMustafa&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GuriMustafa&theme=dracula&hide_border=false" />
 </div>
 
 ---
@@ -66,5 +62,5 @@ Aspiring Full-Stack Developer from Kosovo 🇽🇰
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuriMustafa&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GuriMustafa&theme=radical&no-frame=true&no-bg=false&margin-w=6" />
 </div>
